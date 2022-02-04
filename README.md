@@ -18,7 +18,7 @@
 ### 구조도
 ![구조도(최종)](https://user-images.githubusercontent.com/91407433/152562616-9cb45ee6-e707-42b5-bc99-4f0c16f9a453.png)
 ![아두이노_설계도](https://user-images.githubusercontent.com/91407433/152562810-2a43c93b-2618-4875-81f6-db2237567ad0.png)
-> 4개의 조명틀은 각각 18cm × 20cm × 5cm 규격으로 모델링
+> 각 조명 외형은 각각 18cm × 20cm × 5cm 규격으로 모델링
 
 ### 주요 재료 목록
 - 아두이노 우노 R3 초보자 키트 스텝 2 / RS-015814
