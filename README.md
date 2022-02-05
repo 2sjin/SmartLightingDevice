@@ -36,60 +36,60 @@
 
 ### 색상 설정
 
-<details markdown="1">
-<summary>단색</summary>
-
-https://user-images.githubusercontent.com/91407433/152624147-029f7f10-1303-42c7-9ea2-3505a6041666.mp4
-</details>
-
-<details markdown="1">
-<summary>무지개</summary>
-
-https://user-images.githubusercontent.com/91407433/152623932-48d4b97e-a0e7-47cd-8443-5802c0c297a2.mp4
-
-https://user-images.githubusercontent.com/91407433/152623933-a487e1c1-ad81-4327-a3d9-2feedb76c7bd.mp4
-
-</details>
-
-<details markdown="1">
-<summary>그라데이션</summary>
-
-https://user-images.githubusercontent.com/91407433/152623658-0691deaf-deb2-4c08-81b6-df5e8bd98ced.mp4
-</details>
-
-<details markdown="1">
-<summary>커스텀</summary>
-
-https://user-images.githubusercontent.com/91407433/152623644-15569483-cc33-425c-b25d-50066349a8f1.mp4
-</details>
+> <details markdown="1">
+> <summary>단색</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152624147-029f7f10-1303-42c7-9ea2-3505a6041666.mp4
+> </details>
+> 
+> <details markdown="1">
+> <summary>무지개</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152623932-48d4b97e-a0e7-47cd-8443-5802c0c297a2.mp4
+> 
+> https://user-images.githubusercontent.com/91407433/152623933-a487e1c1-ad81-4327-a3d9-2feedb76c7bd.mp4
+> 
+> </details>
+> 
+> <details markdown="1">
+> <summary>그라데이션</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152623658-0691deaf-deb2-4c08-81b6-df5e8bd98ced.mp4
+> </details>
+> 
+> <details markdown="1">
+> <summary>커스텀</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152623644-15569483-cc33-425c-b25d-50066349a8f1.mp4
+> </details>
 
 ### 부가 기능
 
-<details markdown="1">
-<summary>수동 밝기 조절</summary>
-
-https://user-images.githubusercontent.com/91407433/152623605-af2a4f36-b2fc-4c53-b7be-115328881e44.mp4
-</details>
-
-<details markdown="1">
-<summary>자동 밝기 조절</summary>
-
-https://user-images.githubusercontent.com/91407433/152623639-635692bc-164e-40fe-a49c-e0c6654da742.mp4
-</details>
-
-<details markdown="1">
-<summary>인체 감지 모드</summary>
-
-https://user-images.githubusercontent.com/91407433/152623642-bebc1653-9512-4686-81d6-5064ef1d2521.mp4
-</details>
-
-<details markdown="1">
-<summary>알람 모드</summary>
-  
-https://user-images.githubusercontent.com/91407433/152624134-3da35e27-ae45-4906-8f90-e3f5d41f5974.mp4
-
-https://user-images.githubusercontent.com/91407433/152624135-9eeae996-09a1-4aae-b1d3-e236e5e99d27.mp4
-</details>
+> <details markdown="1">
+> <summary>수동 밝기 조절</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152623605-af2a4f36-b2fc-4c53-b7be-115328881e44.mp4
+> </details>
+> 
+> <details markdown="1">
+> <summary>자동 밝기 조절</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152623639-635692bc-164e-40fe-a49c-e0c6654da742.mp4
+> </details>
+> 
+> <details markdown="1">
+> <summary>인체 감지 모드</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152623642-bebc1653-9512-4686-81d6-5064ef1d2521.mp4
+> </details>
+> 
+> <details markdown="1">
+> <summary>알람 모드</summary>
+> 
+> https://user-images.githubusercontent.com/91407433/152624134-3da35e27-ae45-4906-8f90-e3f5d41f5974.mp4
+> 
+> https://user-images.githubusercontent.com/91407433/152624135-9eeae996-09a1-4aae-b1d3-e236e5e99d27.mp4
+> </details>
 
 
 ## 개선사항 및 향후 연구 방향
@@ -100,4 +100,27 @@ https://user-images.githubusercontent.com/91407433/152624135-9eeae996-09a1-4aae-
 - 더욱 다양한 기능의 추가 및 사용자 자유도 향상
 
 ## [부록] 초기 프로토타입
+> <details markdown="1">
+> <summary>초기 프로토타입 구조도</summary>
+>
+> ![image](https://user-images.githubusercontent.com/91407433/152625745-52bf210b-6dcd-4064-b4be-55ef6256ec07.png)
+>
+> </details>
+>
+> <details markdown="1">
+> <summary>초기 프로토타입 내부 사진</summary>
+>
+> ![조명틀](https://user-images.githubusercontent.com/91407433/152625701-9090558c-0b68-4203-af2c-c8809967d3d0.jpg)
+>
+> </details>
+>
+> <details markdown="1">
+> <summary>초기 프로토타입 외형 사진</summary>
+>
+> ![KakaoTalk_20210711_130316728](https://user-images.githubusercontent.com/91407433/152625686-c9d675ff-f341-425e-880c-3a84886f255a.jpg)
+>
+> </details>
+
+- 조명부에 아두이노 보드 및 센서를 내장하여 보니, 센서의 노출 등 미적인 한계가 금방 드러남
+- 이 부분을 극복하기 위해 본문과 같이 아두이노 보드 및 센서를 포함하는 별도의 본체를 설계하고 구현하였음
 
