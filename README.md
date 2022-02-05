@@ -1,5 +1,7 @@
 # 다기능 스마트 조명 기기의 제작<br>(Production of Multi-Functional Smart Lighting Device)
 
+![외관](https://user-images.githubusercontent.com/91407433/152563664-bf8acd09-56c3-4293-950a-8b5695c82ffc.jpeg)
+
 - 기여자: 이승진, 조준호
 - 프로젝트 수행 기간
   - 1차: 2021. 6. 21. ~ 2021. 7. 9.
@@ -29,20 +31,66 @@
 - 신도리코 3D프린터 PLA 리필 필라멘트 / 신도_PLA_White
 
 ## 제품 구현
-### 제품 외관
-![외관](https://user-images.githubusercontent.com/91407433/152563664-bf8acd09-56c3-4293-950a-8b5695c82ffc.jpeg)
-
 ### 블루투스 연결
+![image](https://user-images.githubusercontent.com/91407433/152625611-6b9e2c66-8fca-4c2b-9de6-a514024d1c9d.png)
 
-### 제품 기능
-#### 밝기 조절
-#### 자동 밝기
-#### 인체 감지
-#### 단색 모드
-#### 무지개 모드
-#### 그라데이션 모드
-#### 커스텀 모드
-#### 알람 모드
+### 색상 설정
+
+<details markdown="1">
+<summary>단색</summary>
+
+https://user-images.githubusercontent.com/91407433/152624147-029f7f10-1303-42c7-9ea2-3505a6041666.mp4
+</details>
+
+<details markdown="1">
+<summary>무지개</summary>
+
+https://user-images.githubusercontent.com/91407433/152623932-48d4b97e-a0e7-47cd-8443-5802c0c297a2.mp4
+
+https://user-images.githubusercontent.com/91407433/152623933-a487e1c1-ad81-4327-a3d9-2feedb76c7bd.mp4
+
+</details>
+
+<details markdown="1">
+<summary>그라데이션</summary>
+
+https://user-images.githubusercontent.com/91407433/152623658-0691deaf-deb2-4c08-81b6-df5e8bd98ced.mp4
+</details>
+
+<details markdown="1">
+<summary>커스텀</summary>
+
+https://user-images.githubusercontent.com/91407433/152623644-15569483-cc33-425c-b25d-50066349a8f1.mp4
+</details>
+
+### 부가 기능
+
+<details markdown="1">
+<summary>수동 밝기 조절</summary>
+
+https://user-images.githubusercontent.com/91407433/152623605-af2a4f36-b2fc-4c53-b7be-115328881e44.mp4
+</details>
+
+<details markdown="1">
+<summary>자동 밝기 조절</summary>
+
+https://user-images.githubusercontent.com/91407433/152623639-635692bc-164e-40fe-a49c-e0c6654da742.mp4
+</details>
+
+<details markdown="1">
+<summary>인체 감지 모드</summary>
+
+https://user-images.githubusercontent.com/91407433/152623642-bebc1653-9512-4686-81d6-5064ef1d2521.mp4
+</details>
+
+<details markdown="1">
+<summary>알람 모드</summary>
+  
+https://user-images.githubusercontent.com/91407433/152624134-3da35e27-ae45-4906-8f90-e3f5d41f5974.mp4
+
+https://user-images.githubusercontent.com/91407433/152624135-9eeae996-09a1-4aae-b1d3-e236e5e99d27.mp4
+</details>
+
 
 ## 개선사항 및 향후 연구 방향
 - 블루투스 통신과 Wi-Fi 통신 기술을 모두 사용할 수 있도록 구현
@@ -52,3 +100,4 @@
 - 더욱 다양한 기능의 추가 및 사용자 자유도 향상
 
 ## [부록] 초기 프로토타입
+
